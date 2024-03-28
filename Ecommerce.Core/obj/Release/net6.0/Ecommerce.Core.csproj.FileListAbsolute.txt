@@ -1,0 +1,26 @@
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.Core\bin\Release\net6.0\Ecommerce.Core.deps.json
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.Core\bin\Release\net6.0\Ecommerce.Core.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.Core\bin\Release\net6.0\Ecommerce.Core.pdb
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.Core\obj\Release\net6.0\Ecommerce.Core.csproj.AssemblyReference.cache
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.Core\obj\Release\net6.0\Ecommerce.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.Core\obj\Release\net6.0\Ecommerce.Core.AssemblyInfoInputs.cache
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.Core\obj\Release\net6.0\Ecommerce.Core.AssemblyInfo.cs
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.Core\obj\Release\net6.0\Ecommerce.Core.csproj.CoreCompileInputs.cache
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.Core\obj\Release\net6.0\Ecommerce.Core.sourcelink.json
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.Core\obj\Release\net6.0\Ecommerce.Core.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.Core\obj\Release\net6.0\refint\Ecommerce.Core.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.Core\obj\Release\net6.0\Ecommerce.Core.pdb
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.Core\obj\Release\net6.0\ref\Ecommerce.Core.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.Core\bin\Release\net6.0\Ecommerce.Core.deps.json
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.Core\bin\Release\net6.0\Ecommerce.Core.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.Core\bin\Release\net6.0\Ecommerce.Core.pdb
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.Core\obj\Release\net6.0\Ecommerce.Core.csproj.AssemblyReference.cache
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.Core\obj\Release\net6.0\Ecommerce.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.Core\obj\Release\net6.0\Ecommerce.Core.AssemblyInfoInputs.cache
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.Core\obj\Release\net6.0\Ecommerce.Core.AssemblyInfo.cs
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.Core\obj\Release\net6.0\Ecommerce.Core.csproj.CoreCompileInputs.cache
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.Core\obj\Release\net6.0\Ecommerce.Core.sourcelink.json
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.Core\obj\Release\net6.0\Ecommerce.Core.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.Core\obj\Release\net6.0\refint\Ecommerce.Core.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.Core\obj\Release\net6.0\Ecommerce.Core.pdb
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.Core\obj\Release\net6.0\ref\Ecommerce.Core.dll

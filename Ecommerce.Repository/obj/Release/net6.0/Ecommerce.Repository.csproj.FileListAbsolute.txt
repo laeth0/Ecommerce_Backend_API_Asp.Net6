@@ -1,0 +1,36 @@
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.Repository\bin\Release\net6.0\Ecommerce.Repository.deps.json
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.Repository\bin\Release\net6.0\Ecommerce.Repository.runtimeconfig.json
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.Repository\bin\Release\net6.0\Ecommerce.Repository.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.Repository\bin\Release\net6.0\Ecommerce.Repository.pdb
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.Repository\bin\Release\net6.0\Ecommerce.Core.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.Repository\bin\Release\net6.0\Ecommerce.Core.pdb
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.Repository\obj\Release\net6.0\Ecommerce.Repository.csproj.AssemblyReference.cache
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.Repository\obj\Release\net6.0\Ecommerce.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.Repository\obj\Release\net6.0\Ecommerce.Repository.AssemblyInfoInputs.cache
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.Repository\obj\Release\net6.0\Ecommerce.Repository.AssemblyInfo.cs
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.Repository\obj\Release\net6.0\Ecommerce.Repository.csproj.CoreCompileInputs.cache
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.Repository\obj\Release\net6.0\Ecommerce.Repository.sourcelink.json
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.Repository\obj\Release\net6.0\Ecommerce.Repository.csproj.CopyComplete
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.Repository\obj\Release\net6.0\Ecommerce.Repository.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.Repository\obj\Release\net6.0\refint\Ecommerce.Repository.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.Repository\obj\Release\net6.0\Ecommerce.Repository.pdb
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.Repository\obj\Release\net6.0\Ecommerce.Repository.genruntimeconfig.cache
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.Repository\obj\Release\net6.0\ref\Ecommerce.Repository.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.Repository\bin\Release\net6.0\Ecommerce.Repository.deps.json
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.Repository\bin\Release\net6.0\Ecommerce.Repository.runtimeconfig.json
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.Repository\bin\Release\net6.0\Ecommerce.Repository.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.Repository\bin\Release\net6.0\Ecommerce.Repository.pdb
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.Repository\bin\Release\net6.0\Ecommerce.Core.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.Repository\bin\Release\net6.0\Ecommerce.Core.pdb
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.Repository\obj\Release\net6.0\Ecommerce.Repository.csproj.AssemblyReference.cache
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.Repository\obj\Release\net6.0\Ecommerce.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.Repository\obj\Release\net6.0\Ecommerce.Repository.AssemblyInfoInputs.cache
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.Repository\obj\Release\net6.0\Ecommerce.Repository.AssemblyInfo.cs
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.Repository\obj\Release\net6.0\Ecommerce.Repository.csproj.CoreCompileInputs.cache
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.Repository\obj\Release\net6.0\Ecommerce.Repository.sourcelink.json
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.Repository\obj\Release\net6.0\Ecommerce.Repository.csproj.CopyComplete
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.Repository\obj\Release\net6.0\Ecommerce.Repository.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.Repository\obj\Release\net6.0\refint\Ecommerce.Repository.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.Repository\obj\Release\net6.0\Ecommerce.Repository.pdb
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.Repository\obj\Release\net6.0\Ecommerce.Repository.genruntimeconfig.cache
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.Repository\obj\Release\net6.0\ref\Ecommerce.Repository.dll

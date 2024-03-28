@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\BisanCo\\Desktop\\Ecommerce\\Ecommerce.PL\\wwwroot\\files\\images\\7ffc0848-657b-432a-861d-4a7866d0b0d3Screenshot 2024-03-26 020322.png",
+      "PackagePath": "staticwebassets\\files\\images\\7ffc0848-657b-432a-861d-4a7866d0b0d3Screenshot 2024-03-26 020322.png"
+    },
+    {
+      "Id": "C:\\Users\\BisanCo\\Desktop\\Ecommerce\\Ecommerce.PL\\wwwroot\\files\\images\\9b70e6f7-36b3-48f1-86be-a2951f07bb05Screenshot 2024-03-26 020322.png",
+      "PackagePath": "staticwebassets\\files\\images\\9b70e6f7-36b3-48f1-86be-a2951f07bb05Screenshot 2024-03-26 020322.png"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\win-x86\\staticwebassets\\msbuild.Ecommerce.PL.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\win-x86\\staticwebassets\\msbuild.build.Ecommerce.PL.props",
+      "PackagePath": "build\\Ecommerce.PL.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\win-x86\\staticwebassets\\msbuild.buildMultiTargeting.Ecommerce.PL.props",
+      "PackagePath": "buildMultiTargeting\\Ecommerce.PL.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\win-x86\\staticwebassets\\msbuild.buildTransitive.Ecommerce.PL.props",
+      "PackagePath": "buildTransitive\\Ecommerce.PL.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

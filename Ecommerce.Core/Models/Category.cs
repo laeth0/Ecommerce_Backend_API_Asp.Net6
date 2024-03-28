@@ -1,4 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
+using System.Runtime.Serialization;
+using System.Text.Json.Serialization;
 
 namespace Ecommerce.Core.Models
 {
@@ -8,15 +10,17 @@ namespace Ecommerce.Core.Models
         public int Id { get; set; }
 
 
-        [Required]
         [MaxLength(50)]
-        [MinLength(3)]
+        [MinLength(2)]
+        [Required]
         public string Name { get; set; }
 
+        [Required]
+        public string Description { get; set; }
 
-        public string? Description { get; set; }
 
-
-        public IEnumerable<Product>? Products { get; set; }=new List<Product>();
+        [JsonIgnore]
+        [IgnoreDataMember]  //=> we can add these two anotation to Handling JSON cycle problem in lazy loading but this soluion is not practical
+        public IEnumerable<Product> Products { get; set; } = new List<Product>();
     }
 }

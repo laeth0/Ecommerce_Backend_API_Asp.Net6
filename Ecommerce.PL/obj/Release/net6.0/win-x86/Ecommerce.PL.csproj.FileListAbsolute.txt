@@ -1,0 +1,554 @@
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\appsettings.Development.json
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\appsettings.json
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\Ecommerce.PL.staticwebassets.runtime.json
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\Ecommerce.PL.exe
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\Ecommerce.PL.deps.json
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\Ecommerce.PL.runtimeconfig.json
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\Ecommerce.PL.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\Ecommerce.PL.pdb
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\AutoMapper.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\Castle.Core.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\Humanizer.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\MessagePack.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\MessagePack.Annotations.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.Build.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.Build.Framework.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.CodeAnalysis.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.CodeAnalysis.Features.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.Data.SqlClient.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.DiaSymReader.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.EntityFrameworkCore.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.Extensions.DependencyModel.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.Extensions.Identity.Core.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.Extensions.Logging.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.Extensions.Options.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.Extensions.Primitives.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.Identity.Client.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.IdentityModel.Logging.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.IdentityModel.Protocols.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.IdentityModel.Tokens.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.NET.StringTools.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.OpenApi.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\dotnet-aspnet-codegenerator-design.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.Win32.SystemEvents.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\Newtonsoft.Json.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\NuGet.Common.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\NuGet.Configuration.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\NuGet.DependencyResolver.Core.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\NuGet.Frameworks.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\NuGet.LibraryModel.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\NuGet.Packaging.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\NuGet.ProjectModel.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\NuGet.Protocol.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\NuGet.Versioning.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\Serilog.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\Serilog.AspNetCore.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\Serilog.Extensions.Hosting.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\Serilog.Extensions.Logging.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\Serilog.Formatting.Compact.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\Serilog.Settings.Configuration.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\Serilog.Sinks.Console.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\Serilog.Sinks.Debug.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\Serilog.Sinks.File.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\System.Composition.AttributedModel.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\System.Composition.Convention.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\System.Composition.Hosting.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\System.Composition.Runtime.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\System.Composition.TypedParts.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\System.Configuration.ConfigurationManager.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\System.Diagnostics.DiagnosticSource.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\System.Drawing.Common.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\System.Reflection.MetadataLoadContext.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\System.Runtime.Caching.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\System.Security.Permissions.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\System.Text.Encodings.Web.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\System.Text.Json.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\System.Windows.Extensions.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\af\Humanizer.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\ar\Humanizer.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\az\Humanizer.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\bg\Humanizer.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\bn-BD\Humanizer.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\cs\Humanizer.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\da\Humanizer.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\de\Humanizer.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\el\Humanizer.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\es\Humanizer.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\fa\Humanizer.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\fi-FI\Humanizer.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\fr\Humanizer.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\fr-BE\Humanizer.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\he\Humanizer.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\hr\Humanizer.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\hu\Humanizer.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\hy\Humanizer.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\id\Humanizer.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\is\Humanizer.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\it\Humanizer.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\ja\Humanizer.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\ko-KR\Humanizer.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\ku\Humanizer.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\lv\Humanizer.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\ms-MY\Humanizer.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\mt\Humanizer.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\nb\Humanizer.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\nb-NO\Humanizer.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\nl\Humanizer.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\pl\Humanizer.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\pt\Humanizer.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\ro\Humanizer.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\ru\Humanizer.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\sk\Humanizer.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\sl\Humanizer.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\sr\Humanizer.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\sr-Latn\Humanizer.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\sv\Humanizer.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\th-TH\Humanizer.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\tr\Humanizer.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\uk\Humanizer.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\vi\Humanizer.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\zh-CN\Humanizer.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\zh-Hans\Humanizer.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\zh-Hant\Humanizer.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\Ecommerce.Core.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\Ecommerce.Repository.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\Ecommerce.Repository.pdb
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\bin\Release\net6.0\win-x86\Ecommerce.Core.pdb
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\obj\Release\net6.0\win-x86\Ecommerce.PL.csproj.AssemblyReference.cache
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\obj\Release\net6.0\win-x86\Ecommerce.PL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\obj\Release\net6.0\win-x86\Ecommerce.PL.AssemblyInfoInputs.cache
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\obj\Release\net6.0\win-x86\Ecommerce.PL.AssemblyInfo.cs
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\obj\Release\net6.0\win-x86\Ecommerce.PL.csproj.CoreCompileInputs.cache
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\obj\Release\net6.0\win-x86\Ecommerce.PL.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\obj\Release\net6.0\win-x86\Ecommerce.PL.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\obj\Release\net6.0\win-x86\Ecommerce.PL.sourcelink.json
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\obj\Release\net6.0\win-x86\staticwebassets.build.json
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\obj\Release\net6.0\win-x86\staticwebassets.development.json
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\obj\Release\net6.0\win-x86\staticwebassets\msbuild.Ecommerce.PL.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\obj\Release\net6.0\win-x86\staticwebassets\msbuild.build.Ecommerce.PL.props
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\obj\Release\net6.0\win-x86\staticwebassets\msbuild.buildMultiTargeting.Ecommerce.PL.props
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\obj\Release\net6.0\win-x86\staticwebassets\msbuild.buildTransitive.Ecommerce.PL.props
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\obj\Release\net6.0\win-x86\staticwebassets.pack.json
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\obj\Release\net6.0\win-x86\scopedcss\bundle\Ecommerce.PL.styles.css
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\obj\Release\net6.0\win-x86\Ecommerce.PL.csproj.CopyComplete
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\obj\Release\net6.0\win-x86\Ecommerce.PL.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\obj\Release\net6.0\win-x86\refint\Ecommerce.PL.dll
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\obj\Release\net6.0\win-x86\Ecommerce.PL.pdb
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\obj\Release\net6.0\win-x86\Ecommerce.PL.genruntimeconfig.cache
+C:\Users\BisanCo\Desktop\Ecommerce\Ecommerce.PL\obj\Release\net6.0\win-x86\ref\Ecommerce.PL.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\appsettings.Development.json
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\appsettings.json
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\Ecommerce.PL.staticwebassets.runtime.json
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\Ecommerce.PL.exe
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\Ecommerce.PL.deps.json
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\Ecommerce.PL.runtimeconfig.json
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\Ecommerce.PL.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\Ecommerce.PL.pdb
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\AutoMapper.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\Castle.Core.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\Humanizer.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\MessagePack.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\MessagePack.Annotations.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.Build.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.Build.Framework.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.CodeAnalysis.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.CodeAnalysis.Features.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.Data.SqlClient.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.DiaSymReader.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.EntityFrameworkCore.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.Extensions.DependencyModel.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.Extensions.Identity.Core.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.Extensions.Logging.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.Extensions.Options.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.Extensions.Primitives.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.Identity.Client.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.IdentityModel.Logging.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.IdentityModel.Protocols.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.IdentityModel.Tokens.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.NET.StringTools.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.OpenApi.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\dotnet-aspnet-codegenerator-design.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.Win32.SystemEvents.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\Newtonsoft.Json.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\NuGet.Common.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\NuGet.Configuration.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\NuGet.DependencyResolver.Core.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\NuGet.Frameworks.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\NuGet.LibraryModel.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\NuGet.Packaging.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\NuGet.ProjectModel.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\NuGet.Protocol.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\NuGet.Versioning.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\Serilog.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\Serilog.AspNetCore.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\Serilog.Extensions.Hosting.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\Serilog.Extensions.Logging.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\Serilog.Formatting.Compact.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\Serilog.Settings.Configuration.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\Serilog.Sinks.Console.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\Serilog.Sinks.Debug.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\Serilog.Sinks.File.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\System.Composition.AttributedModel.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\System.Composition.Convention.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\System.Composition.Hosting.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\System.Composition.Runtime.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\System.Composition.TypedParts.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\System.Configuration.ConfigurationManager.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\System.Diagnostics.DiagnosticSource.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\System.Drawing.Common.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\System.Reflection.MetadataLoadContext.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\System.Runtime.Caching.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\System.Security.Permissions.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\System.Text.Encodings.Web.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\System.Text.Json.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\System.Windows.Extensions.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\af\Humanizer.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\ar\Humanizer.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\az\Humanizer.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\bg\Humanizer.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\bn-BD\Humanizer.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\cs\Humanizer.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\da\Humanizer.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\de\Humanizer.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\el\Humanizer.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\es\Humanizer.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\fa\Humanizer.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\fi-FI\Humanizer.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\fr\Humanizer.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\fr-BE\Humanizer.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\he\Humanizer.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\hr\Humanizer.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\hu\Humanizer.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\hy\Humanizer.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\id\Humanizer.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\is\Humanizer.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\it\Humanizer.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\ja\Humanizer.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\ko-KR\Humanizer.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\ku\Humanizer.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\lv\Humanizer.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\ms-MY\Humanizer.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\mt\Humanizer.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\nb\Humanizer.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\nb-NO\Humanizer.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\nl\Humanizer.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\pl\Humanizer.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\pt\Humanizer.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\ro\Humanizer.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\ru\Humanizer.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\sk\Humanizer.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\sl\Humanizer.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\sr\Humanizer.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\sr-Latn\Humanizer.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\sv\Humanizer.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\th-TH\Humanizer.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\tr\Humanizer.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\uk\Humanizer.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\vi\Humanizer.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\zh-CN\Humanizer.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\zh-Hans\Humanizer.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\zh-Hant\Humanizer.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\Ecommerce.Core.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\Ecommerce.Repository.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\Ecommerce.Repository.pdb
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\bin\Release\net6.0\win-x86\Ecommerce.Core.pdb
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\obj\Release\net6.0\win-x86\Ecommerce.PL.csproj.AssemblyReference.cache
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\obj\Release\net6.0\win-x86\Ecommerce.PL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\obj\Release\net6.0\win-x86\Ecommerce.PL.AssemblyInfoInputs.cache
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\obj\Release\net6.0\win-x86\Ecommerce.PL.AssemblyInfo.cs
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\obj\Release\net6.0\win-x86\Ecommerce.PL.csproj.CoreCompileInputs.cache
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\obj\Release\net6.0\win-x86\Ecommerce.PL.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\obj\Release\net6.0\win-x86\Ecommerce.PL.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\obj\Release\net6.0\win-x86\Ecommerce.PL.sourcelink.json
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\obj\Release\net6.0\win-x86\staticwebassets.build.json
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\obj\Release\net6.0\win-x86\staticwebassets.development.json
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\obj\Release\net6.0\win-x86\staticwebassets\msbuild.Ecommerce.PL.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\obj\Release\net6.0\win-x86\staticwebassets\msbuild.build.Ecommerce.PL.props
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\obj\Release\net6.0\win-x86\staticwebassets\msbuild.buildMultiTargeting.Ecommerce.PL.props
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\obj\Release\net6.0\win-x86\staticwebassets\msbuild.buildTransitive.Ecommerce.PL.props
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\obj\Release\net6.0\win-x86\staticwebassets.pack.json
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\obj\Release\net6.0\win-x86\scopedcss\bundle\Ecommerce.PL.styles.css
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\obj\Release\net6.0\win-x86\Ecommerce.PL.csproj.CopyComplete
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\obj\Release\net6.0\win-x86\Ecommerce.PL.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\obj\Release\net6.0\win-x86\refint\Ecommerce.PL.dll
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\obj\Release\net6.0\win-x86\Ecommerce.PL.pdb
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\obj\Release\net6.0\win-x86\Ecommerce.PL.genruntimeconfig.cache
+C:\Users\BisanCo\Desktop\Ecommerce 6\Ecommerce.PL\obj\Release\net6.0\win-x86\ref\Ecommerce.PL.dll

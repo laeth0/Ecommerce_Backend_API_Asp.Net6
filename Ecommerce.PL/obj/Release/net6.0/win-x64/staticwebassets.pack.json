@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\BisanCo\\Desktop\\Ecommerce\\Ecommerce.PL\\wwwroot\\files\\images\\3d48583f-c65b-4e81-932e-e3c84e65c28aScreenshot 2024-03-26 145542.png",
+      "PackagePath": "staticwebassets\\files\\images\\3d48583f-c65b-4e81-932e-e3c84e65c28aScreenshot 2024-03-26 145542.png"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\win-x64\\staticwebassets\\msbuild.Ecommerce.PL.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\win-x64\\staticwebassets\\msbuild.build.Ecommerce.PL.props",
+      "PackagePath": "build\\Ecommerce.PL.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\win-x64\\staticwebassets\\msbuild.buildMultiTargeting.Ecommerce.PL.props",
+      "PackagePath": "buildMultiTargeting\\Ecommerce.PL.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\win-x64\\staticwebassets\\msbuild.buildTransitive.Ecommerce.PL.props",
+      "PackagePath": "buildTransitive\\Ecommerce.PL.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

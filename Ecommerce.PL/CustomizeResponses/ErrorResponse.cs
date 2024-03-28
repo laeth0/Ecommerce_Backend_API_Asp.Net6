@@ -1,13 +1,17 @@
-﻿namespace Ecommerce.PL.CustomizeResponses
+﻿using System.Net;
+
+namespace Ecommerce.PL.CustomizeResponses
 {
     public class ErrorResponse: Response
     {
-        public IEnumerable<string> Errors { get; set; }
 
-        public ErrorResponse() : base(400)
+        public List<string> Errors { get; set; }
+
+        public ErrorResponse(HttpStatusCode httpStatusCode) : base(httpStatusCode)
         {
             Errors = new List<string>();
         }
 
+      
     }
 }

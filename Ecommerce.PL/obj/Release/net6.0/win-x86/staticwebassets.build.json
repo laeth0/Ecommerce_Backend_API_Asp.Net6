@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "KhMDf2fuIfUQbvTO6Gl8D5CvwAQAZiy7zL9roe8P41M=",
+  "Source": "Ecommerce.PL",
+  "BasePath": "_content/Ecommerce.PL",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Ecommerce.PL\\wwwroot",
+      "Source": "Ecommerce.PL",
+      "ContentRoot": "C:\\Users\\BisanCo\\Desktop\\Ecommerce 6\\Ecommerce.PL\\wwwroot\\",
+      "BasePath": "_content/Ecommerce.PL",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

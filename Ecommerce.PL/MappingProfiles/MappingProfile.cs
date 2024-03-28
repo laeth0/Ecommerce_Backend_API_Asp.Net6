@@ -10,7 +10,7 @@ namespace Ecommerce.PL.MappingProfiles
         {
 
             // i want to show the category name in the product
-            CreateMap<Product, ProductDTO>()
+            CreateMap<Product, ProductResponseDTO>()
                 .ForMember(dest => dest.Category, option => option.MapFrom(src => src.Category.Name));
 
             // i dont want to show the products in the category

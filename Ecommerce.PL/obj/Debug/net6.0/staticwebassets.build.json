@@ -1,11 +1,39 @@
 {
   "Version": 1,
-  "Hash": "SsHK7skiEKbrEo0ePhv2JI0DPXjQ7VChPDcU8u2IuVo=",
+  "Hash": "xVYXYyeuJYZjzHcM9iYoGANUVxOYxCQHucrDCGrpMX8=",
   "Source": "Ecommerce.PL",
   "BasePath": "_content/Ecommerce.PL",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "Ecommerce.PL\\wwwroot",
+      "Source": "Ecommerce.PL",
+      "ContentRoot": "C:\\Users\\BisanCo\\Desktop\\Ecommerce 6\\Ecommerce.PL\\wwwroot\\",
+      "BasePath": "_content/Ecommerce.PL",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\BisanCo\\Desktop\\Ecommerce 6\\Ecommerce.PL\\wwwroot\\files\\images\\1782e07b-d7fe-4178-95d4-3d7ff6d5075d1.png",
+      "SourceId": "Ecommerce.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\BisanCo\\Desktop\\Ecommerce 6\\Ecommerce.PL\\wwwroot\\",
+      "BasePath": "_content/Ecommerce.PL",
+      "RelativePath": "files/images/1782e07b-d7fe-4178-95d4-3d7ff6d5075d1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\images\\1782e07b-d7fe-4178-95d4-3d7ff6d5075d1.png"
+    }
+  ]
 }

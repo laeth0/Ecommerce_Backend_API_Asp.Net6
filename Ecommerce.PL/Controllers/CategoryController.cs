@@ -4,7 +4,6 @@ using Ecommerce.Core.ILog;
 using Ecommerce.Core.Models;
 using Ecommerce.PL.CustomizeResponses;
 using Ecommerce.PL.DTO;
-using Ecommerce.Repository.Data;
 using Microsoft.AspNetCore.Mvc;
 using System.Net;
 
@@ -29,41 +28,47 @@ namespace Ecommerce.PL.Controllers
 
         #region  Get
 
-        [HttpGet]
-        [ProducesResponseType(200)]
+        [HttpGet("[action]")]
+        [ProducesResponseType(StatusCodes.Status200OK)]
+        [ProducesResponseType(StatusCodes.Status400BadRequest)]
         [ResponseCache(CacheProfileName = "500SecondsDuration")]
-        public async Task<ActionResult<IReadOnlyList<Category>>> GetAll()
+        public async Task<ActionResult<IReadOnlyList<Category>>> GetAllCategory()
         {
             logging.Log("Get All Category", "Information");// this statement will be logged in the console
             var Categories = await unitOfWork.categoryRepository.GetAllAsync();
-            var CategoryDto = mapper.Map<IReadOnlyList<Category>, IReadOnlyList<CategoryDTO>>(Categories); 
-            return Ok(new ApiResponse(HttpStatusCode.OK, CategoryDto, "Success"));
+            var CategoryDto = mapper.Map<IReadOnlyList<Category>, IReadOnlyList<CategoryDTO>>(Categories);
+            return Ok(new SuccessResponse( "Success", CategoryDto));
         }
 
 
-        [HttpGet("{id}", Name = "GetCategoryById")] // we put bracket to make the variable dynamic => if we but [HttpGet("id")] then the id will be static (string id)
-        [ProducesResponseType(200)] //mean that the method will return 200 status code and the process is success
-        [ProducesResponseType(404)] // not found
-        [ProducesResponseType(400)] // bad request
+        [HttpGet("[action]/{id:int}")] // we put bracket to make the variable dynamic => if we but [HttpGet("id")] then the id will be static (string id)
+        [ProducesResponseType(StatusCodes.Status200OK)]
+        [ProducesResponseType(StatusCodes.Status404NotFound)]
+        [ProducesResponseType(StatusCodes.Status400BadRequest)]
         [ResponseCache(CacheProfileName = "500SecondsDuration")]
-        public async Task<ActionResult<Category>> GetById([FromRoute] int id)
+        public async Task<ActionResult<Category>> GetCategoryById([FromRoute] int id)
         {
             if (id <= 0)
             {
                 logging.Log("error becouse the id is less than zero", "Error");
-                return BadRequest(new Response(400, "error becouse the id is less than zero"));
+                ErrorResponse errorResponse = new ErrorResponse(HttpStatusCode.BadRequest);
+                errorResponse.Errors.Add("Error Becouse the Id is less than Zero");
+                return BadRequest(errorResponse);
             }
-            var Category = await unitOfWork.categoryRepository.GetByIdAsync(id);
 
-            if (Category is not null)
+            Category? Category = await unitOfWork.categoryRepository.GetByIdAsync(id);
+
+            if (Category is null)
             {
                 logging.Log($"Category of {id} not exist", "Warning");
-                return NotFound(new Response(404,$"The Category with id={id} is not exist"));
+                ErrorResponse errorResponse = new ErrorResponse(HttpStatusCode.NotFound);
+                errorResponse.Errors.Add($"The Category with id={id} is not exist");
+                return NotFound(errorResponse);
             }
 
-            var CategoryDto = mapper.Map<Category, CategoryDTO>(Category);
+            CategoryDTO CategoryDto = mapper.Map<Category, CategoryDTO>(Category);
 
-            return Ok(new ApiResponse(HttpStatusCode.OK, CategoryDto, "Success"));
+            return Ok(new SuccessResponse( "Success", CategoryDto));
         }
 
 
@@ -72,56 +77,85 @@ namespace Ecommerce.PL.Controllers
 
 
         #region Post
-
-        [HttpPost(Name = "Create Category")]
+        [HttpPost("[action]")]
         [ProducesResponseType(200)]
         [ProducesResponseType(400)]
-        public async Task<ActionResult<Category>> Create([FromBody] Category Category)
+        //[Authorize(Roles = "Admin")] // i write this line to make the method only for the admin
+        public async Task<ActionResult<Category>> CreateCategory([FromBody] Category Category)
         {
             if (Category is null)
             {
-                logging.Log("The Category is null", "Error");
-                return BadRequest(new Response(400));
+                logging.Log("The Category is null, Please send the Category to add it to database", "Error");
+                ErrorResponse errorResponse = new ErrorResponse(HttpStatusCode.BadRequest);
+                errorResponse.Errors.Add("The Category is null, Please send the Category to add it to database");
+                return BadRequest(errorResponse);
             }
 
-            if (Category.Id > 0) return StatusCode(StatusCodes.Status500InternalServerError);
+            if (Category.Id > 0) //return StatusCode(StatusCodes.Status500InternalServerError);
+            {
+                logging.Log("The Id is incorrect", "Error");
+                ErrorResponse errorResponse = new ErrorResponse(HttpStatusCode.BadRequest);
+                errorResponse.Errors.Add("The Id is incorrect");
+                return BadRequest(errorResponse);
+            }
 
-            await unitOfWork.categoryRepository.AddAsync(Category);
-            await unitOfWork.SaveChangesAsync();
+            if (ModelState.IsValid)
+            {
+                await unitOfWork.categoryRepository.AddAsync(Category);
+                await unitOfWork.SaveChangesAsync();
 
-            var CategoryDto = mapper.Map<Category, CategoryDTO>(Category);
+                var CategoryDto = mapper.Map<Category, CategoryDTO>(Category);
 
-            return Ok(new ApiResponse(HttpStatusCode.OK, CategoryDto, "Success"));
+                return Ok(new SuccessResponse( "Category Created Successfully", CategoryDto));
+            }
+            else
+            {
+                ErrorResponse errorResponse = new ErrorResponse(HttpStatusCode.BadRequest);
+
+                foreach (var modelState in ModelState.Values)
+                    foreach (var modelError in modelState.Errors)
+                        errorResponse.Errors.Add(modelError.ErrorMessage);
+
+                return BadRequest(errorResponse);
+            }
+
         }
         #endregion
 
 
 
         #region Put
-        [HttpPut("{id}", Name = "Update Category")]
+        [HttpPut("[action]/{id}")]
         [ProducesResponseType(200)]
         [ProducesResponseType(404)]
         [ProducesResponseType(400)]
-        public async Task<ActionResult<Category>> Update([FromRoute] int id, [FromBody] Category model)
+        public async Task<ActionResult<Category>> UpdateCategory([FromRoute] int id, [FromBody] CategoryDTO model)
         {
-            if (id <= 0 || model is null)
+
+            if (id <= 0)
             {
-                logging.Log("The id is less than zero or the Category is null", "Error");
-                return BadRequest(new Response(400, "The id is less than zero or the Category is null"));
+                logging.Log("error becouse the id is less than zero", "Error");
+                ErrorResponse errorResponse = new ErrorResponse(HttpStatusCode.BadRequest);
+                errorResponse.Errors.Add("Error Becouse the Id is less than Zero");
+                return BadRequest(errorResponse);
+            }
+            if (model is null)
+            {
+                logging.Log("Please Send The Category Information", "Error");
+                ErrorResponse errorResponse = new ErrorResponse(HttpStatusCode.BadRequest);
+                errorResponse.Errors.Add("Please Send The Category Information");
+                return BadRequest(errorResponse);
             }
 
-            if (id != model.Id)
-            {
-                logging.Log("The id is not equal to the Category id", "Error");
-                return BadRequest(new Response(400));
-            }
 
-            var Category = await unitOfWork.categoryRepository.GetByIdAsync(id);
+            Category? Category = await unitOfWork.categoryRepository.GetByIdAsync(id);
 
             if (Category is null)
             {
-                logging.Log("The Category is not exist", "Warning");
-                return NotFound($"The Category with id={id} is not exist");
+                logging.Log($"The Category with id={id} is not exist", "Warning");
+                ErrorResponse errorResponse = new ErrorResponse(HttpStatusCode.NotFound);
+                errorResponse.Errors.Add($"The Category with id={id} is not exist");
+                return NotFound(errorResponse);
             }
 
             Category.Name = model.Name;
@@ -129,41 +163,46 @@ namespace Ecommerce.PL.Controllers
 
             await unitOfWork.SaveChangesAsync();
 
-            var CategoryDto = mapper.Map<Category, CategoryDTO>(Category);
+            CategoryDTO CategoryDto = mapper.Map<Category, CategoryDTO>(Category);
 
-            return Ok(new ApiResponse(HttpStatusCode.OK, CategoryDto, "Success"));
+            return Ok(new SuccessResponse( "Category Updated SuccessFully", CategoryDto));
         }
         #endregion
 
 
 
         #region Delete
-        [HttpDelete("{id}", Name = "Delete Category")]
+        [HttpDelete("[action]/{id}")]
         [ProducesResponseType(200)]
         [ProducesResponseType(400)]
         [ProducesResponseType(404)]
-        public async Task<ActionResult<Category>> Delete([FromRoute] int id)
+        public async Task<ActionResult<Category>> DeleteCategory([FromRoute] int id)
         {
             if (id <= 0)
             {
-                logging.Log("The id is less than zero", "Error");
-                return BadRequest(new Response(400));
+                logging.Log("error becouse the id is less than zero", "Error");
+                ErrorResponse errorResponse = new ErrorResponse(HttpStatusCode.BadRequest);
+                errorResponse.Errors.Add("Error Becouse the Id is less than Zero");
+                return BadRequest(errorResponse);
             }
 
-            var Category = await unitOfWork.categoryRepository.GetByIdAsync(id);
+            Category? Category = await unitOfWork.categoryRepository.GetByIdAsync(id);
+
             if (Category is null)
             {
-                logging.Log("The Category is not exist", "Warning");
-                return NotFound($"The Category with id={id} is not exist");
+                logging.Log($"There is no category with id ={id}", "Error");
+                ErrorResponse errorResponse = new ErrorResponse(HttpStatusCode.BadRequest);
+                errorResponse.Errors.Add("The Category is null, Please send the Category to add it to database");
+                return BadRequest(errorResponse);
             }
 
             await unitOfWork.categoryRepository.Delete(id);
 
             await unitOfWork.SaveChangesAsync();
 
-            var CategoryDto = mapper.Map<Category, CategoryDTO>(Category);
+            CategoryDTO CategoryDto = mapper.Map<Category, CategoryDTO>(Category);
 
-            return Ok(new ApiResponse(HttpStatusCode.OK, CategoryDto, "Success"));
+            return Ok(new SuccessResponse("Success", CategoryDto));
         }
         #endregion
 
